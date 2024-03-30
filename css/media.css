@@ -1,0 +1,217 @@
+@media (max-width:1440px){
+    .container{
+        width: 90%;
+    }
+}
+
+@media (max-width: 768px) {
+    .container{
+        width: 90%;
+    }
+    .header a{
+        display: none;
+    }
+    .hero img {
+        width: 300px;
+    }
+    .hero-left h1 {
+        font-size: 35px;
+        line-height: 42.5px;
+    }
+    .hero-left p {
+        font-size: 15px;
+        line-height: 27.5px;
+    }
+    .first-btn {
+        width: 197px;
+        height: 40px;
+        font-size: 13px;
+     }
+    .second-btn{
+        width: 203px;
+        height: 65px;
+        font-size: 18px;
+        font-weight: 600;
+     }
+     .about-img{
+        width: 300px;
+     }
+     .about-info{
+        gap: 8px;
+     }
+     .about-info h1 {
+        font-size: 35px;
+        line-height: 67.5px;
+    }
+     .avatar{
+        width: 70px;
+        height: 70px;
+     }
+     .Alpanasap h5 {
+        font-size: 23px;
+    }
+    .Alpanasap p{
+        font-size: 23px;
+    }
+    .about-text{
+        font-size: 16px;
+    }
+    .stars img{
+        width: 40px;
+        gap: 8px;
+    }
+    .block{
+        width: 85%;
+        height: 300px;
+    }
+    .block h1{
+        color: rgba(15, 31, 28, 1);
+        font-size: 45px;
+        font-weight: 500;
+        text-align: center;
+        line-height: 67.5px;
+    }
+    .block h1{
+        font-size: 25px;
+    }
+    .block p{
+        font-size: 20px;
+    }
+    .block button{
+        width: 155px;
+        height: 69px;
+        font-size: 15px;   
+    }
+    .subscribe h1 {
+        font-size: 35px;
+        padding-bottom: 80px;
+     }
+     .search input{
+        width: 85%;
+     }
+     .search input::placeholder{
+        font-size: 18px;
+        height: 149px;
+    }
+    .search button{
+        width: 200px;
+        font-size: 20px;
+        right: 50px;
+        height: 85px;
+     } 
+     .footer a{
+        font-size: 10px;
+        font-weight: 500;
+        margin: 0 15px;
+    }
+     .footer-end a{
+        font-size: 10px;
+        font-weight: 500;
+     }
+     .footer-end button{
+        width: 95px;
+        height: 39px;
+        font-size: 10px;
+     }
+    
+
+    
+}
+
+@media (max-width:576px) {
+    .container{
+        width: 90%;
+    }
+    .hero img {
+        width: 220px;
+    }
+    .header-end button{
+        width: 80px;
+        height: 39px;
+        font-size: 13px;
+    }
+    
+    .hero-left h1 {
+        font-size: 20px;
+        line-height: 32.5px;
+    }
+    .hero-left p {
+        font-size: 12px;
+        line-height: 27.5px;
+    }
+    .first-btn {
+        width: 147px;
+        height: 30px;
+        font-size: 10px;
+     }
+    .second-btn{
+        width: 173px;
+        height: 55px;
+        font-size:14px;
+        font-weight: 600;
+     }
+     .about-img{
+        width: 220px;
+     }
+     .about-info{
+        gap: 12px;
+     }
+     .avatar{
+        width: 65px;
+        height: 65px;
+     }
+     .about-info h1{
+      font-size: 20px;
+     }
+     .Alpanasap h5 {
+        font-size: 23px;
+    }
+    .Alpanasap p{
+        font-size: 23px;
+    }
+    .about-text{
+        font-size: 12px;
+    }
+    .stars img{
+        width: 30px;
+        gap: 5px;
+    }
+    .block{
+        width: 85%;
+        height: 270px;
+    }
+    .block h1{
+        font-size: 20px;
+    }
+    .block h1{
+        font-size: 20px;
+    }
+    .block p{
+        font-size: 15px;
+    }
+    .block button{
+        width: 140px;
+        height: 50px;
+        font-size: 13px;   
+    }
+    .subscribe h1 {
+        font-size: 35px;
+        padding-bottom: 30px;
+     }
+     .search input{
+        width: 85%;
+        height: 89px;
+     }
+     .search input::placeholder{
+        font-size: 14px;
+    }
+    .search button{
+        width: 170px;
+        font-size: 15px;
+        right: 50px;
+        height: 65px;
+     }
+     .footer h2{
+        font-size: 15px;
+    }
+}
